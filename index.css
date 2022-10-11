@@ -29,4 +29,16 @@ img:hover{
 }
 p{
     font-size: 22px;
+    color: rgb(121, 31, 31);
+}
+a{
+    text-decoration: none;
+    color: saddlebrown;
+}
+.c{
+    height: 531px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
